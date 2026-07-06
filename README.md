@@ -14,4 +14,4 @@ This project analyzes student scores using NumPy. It calculates the average scor
 - NumPy
 
 ## Author
-Aso Shadmehr
+Erhsad Shadmehr
